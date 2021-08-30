@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @EdithTech
-- 👀 I’m interested in Game Development and Unreal Engine
-- 🌱 I’m currently learning B.E int IT 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yash9atalkar@gmail.com
+- Hi, I’m @EdithTech / Yash Atalkar
+- I’m interested in Game Development and Unreal Engine
+- I’m currently learning B.E in IT 
+- How to reach me yash9atalkar@gmail.com
 
 <!---
 EdithTech/EdithTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
